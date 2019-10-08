@@ -1,0 +1,40 @@
+body{
+    background-color: #ff8c00;
+    color: #ffffff;
+}
+.normal{
+    background-color: #ffffff;
+    color: #2f4f4f;
+}
+.info{
+    background-color: #0000cd;
+    color: #2f4f4f;
+}
+.warning{
+    background-color: #ff0000;
+    color: #FFFF00;
+    /* black */
+}
+.error{
+    background-color: #FFFF00;
+    color: #000000;
+    /* black */
+}
+.primary{
+    background-color: #87cefa;
+    color: #2f4f4f;
+}
+.secondry{
+    background-color: #FF4500;
+    color: #FF0000;
+}
+.thirdry{
+    background-color: #00fa9a;
+    color: #2f4f4f;
+}
+
+
+
+button{
+    margin: 10px;
+}
